@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Programming, AI assisted Coding, Context Engineering<br>👯 I’m looking to collaborate on those who are interested to in AI tools and building AI agents<br>🤝 I’m looking for help with AI Orchestrators, AI Builders, AI Specialists, AI Engineerss<br>🌱 I’m currently learning Context Engineering, Automation, building AI agents<br>💬 Ask me about AI tools<br>⚡ Fun fact nothing
+🔭 I’m currently working on Programming, AI assisted Coding, Context Engineering,, MCP's<br>👯 I’m looking to collaborate on those who are interested in AI tools and building AI agents<br>🤝 I’m looking for help with AI Orchestrators, AI Builders, AI Specialists, AI Engineers<br>🌱 I’m currently learning Context Engineering, Automation, building AI agents<br>💬 Ask me about AI tools<br>⚡ Fun fact nothing
 
 
 ## 🌐 Socials:
